@@ -1,4 +1,4 @@
-# Tarea 04: Multimedia y UX - Spyro The Dragon
+# 📱 Tarea 04: Multimedia y UX - Spyro The Dragon
 
 **BK Programación** | Proyecto desarrollado por: **Irene Condado Alcantarilla**
 
@@ -37,3 +37,5 @@ Este proyecto consiste en la evolución multimedia de una aplicación base inspi
 El proceso de desarrollo ha permitido integrar de manera fluida elementos multimedia y animaciones que enriquecen la experiencia del usuario.
 *   **Desafíos**: El mayor reto fue el posicionamiento dinámico de los bocadillos de la librería Balloon sobre los elementos del `BottomNavigationView`, asegurando que la flecha del globo apuntara correctamente a cada icono.
 *   **Aprendizaje**: Se ha profundizado en la creación de interfaces dinámicas y el uso de librerías de terceros para mejorar la usabilidad (UX) sin sacrificar el rendimiento de la aplicación.
+
+*Desarrollado como parte del módulo de Programación de Multimedia y Dispositivos Móviles (PMDM).*
